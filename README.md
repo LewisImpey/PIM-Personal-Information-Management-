@@ -3,7 +3,7 @@ PIM (Personal Information Management) Group 1 Team 2
 
 Team Leaders for each quarter of weeks:
 
-| Name  | Week
+| Name  |        Week
 
 | Nisa  | 28/9/2020 - 8/11/2020
 
