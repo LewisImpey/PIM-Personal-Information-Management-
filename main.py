@@ -29,6 +29,7 @@ def Inventory_Menu():
     title_label = tk.Label(master, text="Welcome").place(x=0, y=0)
 
 
+
 def Login_Menu():
     print("Ola")
 
@@ -48,7 +49,7 @@ entry_Password = Entry(master, show="*", textvariable=pass_textbox).place(x=40, 
 
 button_Login = Button(master, text="Login", width=10, command=password_checking).place(x=60, y=135)
 
-
+# Can you see this
 
 mainloop()
 
