@@ -1,0 +1,18 @@
+1. Login page open with:
+	-username input
+	-password input
+	-title
+	-company logo
+	-terms agreement and way to view terms
+
+2. After logging in, personnel records page opens with ability to:
+	-view people's information
+	-delete a person (which will delete all of their information from the database) (add "are you sure?" before deletion)
+	-search database for specific person (search by name)
+	-gives the ability for the user to log out of the system (this would close the personnel records page) ("are you sure? before logout)
+
+3. On the personnel records page there will be an 'Add' button which when pressed will open a pop out form with:
+	-the ability to add a new person to the database
+ 	-adds all of the relevant information about a person
+	-when the add button is clicked the person's information is added to the database
+	-then the add form will close back to the personnel records page
